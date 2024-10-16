@@ -1,4 +1,5 @@
 # 🎮 Motu Pop Bubble Shooter
+![MotuPop](/logo.png)
 
 ### [Play Now - motupop.fun](https://motupop.fun)
 
