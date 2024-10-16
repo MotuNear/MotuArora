@@ -1,5 +1,7 @@
 # 🎮 Motu Pop Bubble Shooter
 
+### [Play Now - motupop.fun](https://motupop.fun)
+
 ## 🕹️ Game Introduction
 Welcome to **Motu Pop Bubble Shooter**! 🌟 Dive into a colorful adventure where players pop bubbles and rescue the adorable motu's chhotu from the evil baboon! With engaging gameplay and charming graphics, this game is perfect for players of all ages. Challenge yourself with over **100 unique levels**, earn tokens through exciting gameplay, and experience the joy of helping our little heroes!
 
@@ -32,7 +34,7 @@ Join us on this vibrant adventure, and let’s pop those bubbles together! 🌈�
 
 
 ## 📖 How to Play
-1. **Download the Game**: Available on [Android](#) and [iOS](#).
+1. **Play the Game**: [Click Here](https://motupop.fun/).
 2. **Aim and Match**: Aim at the bubbles and match 3 or more to clear the board.
 3. **Collect Rewards**: Use power-ups and earn tokens as you progress through levels!
 4. **Compete with Friends**: Share your scores and challenge friends to beat your high score!
