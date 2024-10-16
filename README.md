@@ -38,6 +38,7 @@ Join us on this vibrant adventure, and let’s pop those bubbles together! 🌈�
 2. **Aim and Match**: Aim at the bubbles and match 3 or more to clear the board.
 3. **Collect Rewards**: Use power-ups and earn tokens as you progress through levels!
 
+
 ### 📝 Aurora Testnet Contract (Verified)
 - **Token Contract Address**: [0x6B9eD3928649085aD0D2060bEB7106Ae182350E9](https://explorer.testnet.aurora.dev/token/0x6B9eD3928649085aD0D2060bEB7106Ae182350E9)  
 - **Explorer Link**: View the contract on the [Aurora Testnet Explorer](https://explorer.testnet.aurora.dev/token/0x6B9eD3928649085aD0D2060bEB7106Ae182350E9) for more details.
