@@ -24,6 +24,13 @@ We’ve integrated **Aurora blockchain technology** to enhance the gaming experi
 Join us on this vibrant adventure, and let’s pop those bubbles together! 🌈✨
 
 
+## 💪 What We Are Proud Of
+- **Creative Design**: We are proud to have created over **100 unique levels**, each filled with creatively designed obstacles and fun mechanics! 🌈  
+- **Positive Reception**: Achieving a **4.5+ user rating** with over **500,000 downloads** validates our hard work and dedication to quality! 🏅  
+- **Play-to-Earn Innovation**: Successfully implementing a play-to-earn model empowers players to earn tokens while enjoying the game! 💰  
+- **Team Collaboration**: Our teamwork and commitment to continuous improvement have led to an engaging and enjoyable gaming experience for everyone! 🤝  
+
+
 ## 📖 How to Play
 1. **Download the Game**: Available on [Android](#) and [iOS](#).
 2. **Aim and Match**: Aim at the bubbles and match 3 or more to clear the board.
