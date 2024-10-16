@@ -48,6 +48,13 @@ Join us on this vibrant adventure, and let’s pop those bubbles together! 🌈�
 ## 📞 Contact
 For inquiries, feedback, or collaboration opportunities, feel free to reach out to us!
 
+![MotuPop](/Assets/1.jpg)
+![MotuPop](/Assets/2.jpg)
+![MotuPop](/Assets/3.jpg)
+![MotuPop](/Assets/4.jpg)
+![MotuPop](/Assets/5.jpg)
+![MotuPop](/Assets/6.jpg)
+![MotuPop](/Assets/7.jpg)
 ---
 
 Happy popping! 🎉
