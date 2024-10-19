@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: df0414a5ad06dd3428e49be6bf905454
+timeCreated: 1525342026
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bullpen
+  fontNames:
+  - Bullpen
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d3c591469603e1548b6071ec9d8c2bd3, type: 3}
+  - {fileID: 12800000, guid: 514f2c8cdf7aa2a4bb58964ee02bd084, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
