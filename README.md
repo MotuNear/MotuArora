@@ -40,10 +40,11 @@ Join us on this vibrant adventure, and let’s pop those bubbles together! 🌈�
 3. **Collect Rewards**: Use power-ups and earn tokens as you progress through levels!
 
 
-## 📝 Aurora Testnet Contract (Verified)
+## 📝 Aurora Testnet Contract (Verified) & Project Source Code
 - **Token Contract Address**: [0x6B9eD3928649085aD0D2060bEB7106Ae182350E9](https://explorer.testnet.aurora.dev/address/0x6B9eD3928649085aD0D2060bEB7106Ae182350E9)  
 - **Explorer Link**: View the contract on the [Aurora Testnet Explorer](https://explorer.testnet.aurora.dev/address/0x6B9eD3928649085aD0D2060bEB7106Ae182350E9) for more details.
 - **Source Code**: View the contract source code. [Click here to visit](/Contract/MotuPopSmartContractAurora.sol).
+- **Project Code**: View the contract source code. [Click here to visit](/).
 
 
 ## 📞 Contact
